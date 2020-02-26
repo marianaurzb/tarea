@@ -1,0 +1,61 @@
+.rectangulo {
+     width: 96px; 
+     height: 305px; 
+     background: #428bca;
+     position: absolute;
+}
+
+.rectangulo-2 {
+     width: 96px; 
+     height: 300px; 
+     border: 2px solid #555;
+     left: 110px;
+     position: absolute;
+     background: #FFFFF;
+}
+
+.rectangulo3 {
+     width: 96px; 
+     height: 305px; 
+     background: #428bca;
+     right: 500px solid #f0ad4e;
+     top: 150px solid transparent;
+     position: absolute;
+}
+
+.rectangulo4 {
+     width: 96px; 
+     height: 300px; 
+     border: 2px solid #555;
+     left: 130px;
+     top: 3px;
+     background: #FFFFF;
+     position: absolute;
+}
+
+
+
+.luna {
+    width: 100px;
+    height: 100px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    -moz-box-shadow: 30px 10px 0 #FF80AB;
+    -webkit-box-shadow: 30px 10px 0 #FF80AB;
+    box-shadow: 30px 10px 0 #F3E5F5;
+    top: 5px;
+    left: 250px;
+    position: absolute;
+}
+
+
+.palito{
+
+     width: 40px;
+     height: 100px;
+     background: #CDDC39;
+     right: 260px;
+     top: 50px;
+     position: absolute;
+}
